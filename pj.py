@@ -33,7 +33,7 @@ def main():
         except:
             pass
         else:
-            if name.lower() in ['Student.exe', "StudentMain.exe"]:
+            if name.lower() in ['student.exe', "studentmain.exe"]:
                 path = process.exe()
                 process.kill()
                 # os.remove(path)
