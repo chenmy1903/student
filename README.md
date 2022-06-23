@@ -40,7 +40,7 @@
 
 ### 1.0
 
-> 已知bug: 伽卡他卡新版本会以SYSTEM权限运行, 请使用3.0版本破解
+> 已知bug: 伽卡他卡新版本会以SYSTEM权限运行, 请使用基于本版本的3.0版本破解, [1.0版本链接](https://github.com/chenmy1903/student/blob/master/pj.py)
 
 1. 可以让伽卡他卡趋势
 
