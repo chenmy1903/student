@@ -4,7 +4,7 @@
 
 ## 下载
 
-> 网络问题?请前往[更新日记](#更新日记)进行下载
+> 网络问题?使用加速IP下载即可
 
 [点击下载](https://github.com/chenmy1903/student3/releases)
 
@@ -23,9 +23,7 @@
 
 > 虽然机房没了, 但是本程序仍然保留
 
-### 3.0
-
-[下载该版本](https://gh.api.99988866.xyz/https://github.com/chenmy1903/student3/releases/download/v3/kill_student.exe)
+### 3.0+
 
 1. 更换实现方法, 以解决机房管理助手禁用注册表的情况
 2. 基于1.0内核, 增加提权功能, 防止伽卡他卡使用`SYSTEM`权限进行运行
